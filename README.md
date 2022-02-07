@@ -12,4 +12,10 @@ First of all add an action to your button.
 
 inside your controller you have to put the code which is inside app/http/controllers
 
+As I used it as a __invoke method.__
+
+I have also shared my web.php file to see how to make a call in the routes.
+
+Note: You can use your own model names and table columns as per your requirements.
+
 Make calculations as per your model and you're done! 
