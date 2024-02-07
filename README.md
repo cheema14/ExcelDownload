@@ -4,7 +4,7 @@ Welcome everybody!
 This code snippet will help you export CSV in a laravel project without using any package. 
 For backend I assume you are using Laravel or any other PHP framework.
 
-For frontend you should have plain Javascript or VueJS or AngularJS. It will work find for any javascript framework.
+For frontend you should have plain Javascript or VueJS or Angular. It will work find for any javascript framework.
 
 First of all add an action to your button. 
 
